@@ -9,7 +9,13 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Github 통계(전체 기간)
+## Github 통계
+
+### 최근 1년 통계(public repo 기준)
+
+![Stats](./profile/stats.svg)
+
+### 전체 기간
 
 [![](https://raw.githubusercontent.com/HyeonBin2379/Hyeonbin2379/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/HyeonBin2379/Hyeonbin2379/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HyeonBin2379/Hyeonbin2379/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
