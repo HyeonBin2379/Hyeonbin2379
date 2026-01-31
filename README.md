@@ -15,7 +15,7 @@
 | :--- | :--- |
 | ![Advanced](https://img.shields.io/badge/ADVANCED-E11D48?style=for-the-badge) | 기술의 핵심 원리를 이해하며, 복잡한 비즈니스 로직 설계 및 성능 최적화 경험이 풍부한 수준 |
 | ![Proficient](https://img.shields.io/badge/PROFICIENT-2563EB?style=for-the-badge) | 기술을 활용하여 독립적으로 기능을 구현하거나, 발생한 문제를 스스로 트러블슈팅할 수 있는 수준 |
-| ![Intermediate](https://img.shields.io/badge/INTERMEDIATE-F59E0B?style=for-the-badge) | 프로젝트에 적용한 경험이 있으며, 공식 문서와 도구를 활용해 필요한 기능을 완성할 수 있는 수준 |
+| ![Intermediate](https://img.shields.io/badge/INTERMEDIATE-F59E0B?style=for-the-badge) | 프로젝트에 적용한 경험이 있으며, 공식 문서와 AI 등의 도구를 활용해 필요한 기능을 완성할 수 있는 수준 |
   
 </details>
 
