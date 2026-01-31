@@ -19,6 +19,10 @@
   
 </details>
 
+### 기타 Background & Experience
+- Gemini CLI 활용 : Gemini CLI의 대화 저장 기능을 활용하여 이전 맥락을 유지하며, 동시성 제어 등 복잡한 비즈니스 로직 설계 및 구현에 활용
+- Linux System & C Programming : Ubuntu 환경에서 `vi` 편집기와 C언어를 이용한 중복 파일 탐색 프로그램 구현
+
 ---
 
 ## Github 통계
