@@ -1,26 +1,23 @@
-## 주요 기술 스택
+## 기술 스택
 
-### Backend
+### 주요 기술 스택
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/springsecurity-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=dotnet&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+| 기술 스택 (Tech Stack) | 숙련도 (Proficiency) |
+| :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MyBatis](https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=dotnet&logoColor=white) | ![Advanced](https://img.shields.io/badge/ADVANCED-E11D48?style=for-the-badge) |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Proficient](https://img.shields.io/badge/PROFICIENT-2563EB?style=for-the-badge) |
+| ![Spring Security](https://img.shields.io/badge/springsecurity-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Intermediate](https://img.shields.io/badge/INTERMEDIATE-F59E0B?style=for-the-badge) |
 
-### Frontend
+<details>
+  <summary>숙련도 분류 기준</summary>
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| 등급 | 상세 설명 |
+| :--- | :--- |
+| ![Advanced](https://img.shields.io/badge/ADVANCED-E11D48?style=for-the-badge) | 기술의 핵심 원리를 이해하며, 복잡한 비즈니스 로직 설계 및 성능 최적화 경험이 풍부한 수준 |
+| ![Proficient](https://img.shields.io/badge/PROFICIENT-2563EB?style=for-the-badge) | 기술을 활용하여 독립적으로 기능을 구현하거나, 발생한 문제를 스스로 트러블슈팅할 수 있는 수준 |
+| ![Intermediate](https://img.shields.io/badge/INTERMEDIATE-F59E0B?style=for-the-badge) | 프로젝트에 적용한 경험이 있으며, 공식 문서와 도구를 활용해 필요한 기능을 완성할 수 있는 수준 |
+  
+</details>
 
 ---
 
