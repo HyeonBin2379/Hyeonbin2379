@@ -15,12 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card 2024
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&show=prs_merged,prs_merged_percentage&number_format=long&count_private=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&show=prs_merged,prs_merged_percentage&number_format=long&count_private=true&commits_year=2024
+          path: profile/stats-2024.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card 2025
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&show=prs_merged,prs_merged_percentage&number_format=long&count_private=true&commits_year=2025
+          path: profile/stats-2025.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card 2026
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&show=prs_merged,prs_merged_percentage&number_format=long&count_private=true&commits_year=2026
+          path: profile/stats-2026.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
