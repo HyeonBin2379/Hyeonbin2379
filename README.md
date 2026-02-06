@@ -1,6 +1,6 @@
 ## 기술 스택
 
-### 주요 기술 스택
+### Tech Stack
 
 | 기술 스택 | 숙련도 |
 | :--- | :--- |
@@ -21,7 +21,7 @@
 
 ### Current Focus: Deep Dive & Learning 
 
-| 기술 스택 | 주요 학습 내용 |
+| 기술 스택 | 상세 설명 |
 | :--- | :--- |
 | ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | 영속성 컨텍스트 및 연관관계 매핑 관련 내용 복습 |
 | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | Docker Image & Docker Container 사용법 복습 및 배포 프로세스 학습 중 |
@@ -38,7 +38,7 @@
 
 ---
 
-## Github 통계
+## Github 활용 통계
 
 ### 최근 1년 통계(public repo 기준)
 
