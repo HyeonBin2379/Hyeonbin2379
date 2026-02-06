@@ -9,7 +9,7 @@
 | ![Spring Security](https://img.shields.io/badge/springsecurity-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Intermediate](https://img.shields.io/badge/INTERMEDIATE-F59E0B?style=for-the-badge) |
 
 <details>
-  <summary>숙련도 분류 기준</summary>
+  <summary>분류 기준</summary>
 
 | 숙련도 | 상세 설명 |
 | :--- | :--- |
