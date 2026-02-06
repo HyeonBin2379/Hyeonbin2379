@@ -27,7 +27,7 @@
 | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | Docker Image & Docker Container 사용법 복습 및 배포 프로세스 학습 중 |
 
 <details>
-  <summary>학습 목록 추가 기준</summary>
+  <summary>분류 기준</summary>
 
 - 활용 경험 유무에 관계없이, 주요 메커니즘을 완벽히 이해하기 위해 심화 복습 중이거나 신규 도입을 위해 학습 중인 기술
   
