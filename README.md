@@ -23,7 +23,7 @@
 
 | 기술 스택 | 상세 설명 |
 | :--- | :--- |
-| ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | 영속성 컨텍스트 및 연관관계 매핑 관련 내용 복습 |
+| ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | 영속성 컨텍스트 및 연관관계 매핑 기능 관련 내용 복습 |
 | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | Docker Image & Docker Container 사용법 복습 및 배포 프로세스 학습 중 |
 
 <details>
