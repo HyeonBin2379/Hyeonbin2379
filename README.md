@@ -36,7 +36,7 @@
 
 ### 기타 Background & Experience
 - Linux System & C Programming : C언어 기반의 Linux 파일 시스템 내부 중복 파일 정리 프로그램 구현
-- DDD & MSA 기반 프로젝트 수행 경험: DDD 기반의 주문, 배송 도메인 로직 구현 및 이벤트를 활용한 전체 주문 프로세스 구현
+- DDD & MSA 기반 프로젝트 수행 경험: DDD 기반 주문/배송 도메인 로직 구현 및 이벤트를 활용한 전체 주문 프로세스 구현
 
 ---
 
