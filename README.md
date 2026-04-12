@@ -23,8 +23,8 @@
 
 | 기술 스택 | 상세 설명 |
 | :--- | :--- |
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white) | 모니터링 환경 구축 방법 |
-| ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323330.svg?style=for-the-badge&logo=apachekafka&logoColor=white) | Saga 패턴 기반 이벤트 처리 기능 구현 & kafka 메시지 브로커 세팅 과정 문서화 |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white) | 모니터링 환경 세팅 |
+| ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323330.svg?style=for-the-badge&logo=apachekafka&logoColor=white) | Saga 패턴 기반 이벤트 처리 기능 구현 과정 & kafka 메시지 브로커 세팅 과정 문서화 |
 
 <details>
   <summary>분류 기준</summary>
