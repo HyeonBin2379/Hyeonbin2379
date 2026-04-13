@@ -23,7 +23,7 @@
 
 | 기술 스택 | 상세 설명 |
 | :--- | :--- |
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white) | 모니터링 환경 세팅 및 장애 대응 관련 내용 공부 |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white) | 모니터링 환경 세팅 과정 문서화, 장애 대응 관련 내용 공부 |
 | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323330.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Saga 패턴 기반 주문 프로세스 구현 과정 & kafka 메시지 브로커 세팅 과정 문서화 |
 | ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | MSA 환경에서의 서비스 간 통신 방법 관련 내용 공부, MSA 환경 세팅 관련 공부 내용 복습 |
 
