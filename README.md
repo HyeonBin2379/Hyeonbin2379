@@ -24,8 +24,6 @@
 | 기술 스택 | 상세 설명 |
 | :--- | :--- |
 | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white) | 모니터링 환경 세팅 과정 문서화, 장애 대응 관련 내용 공부 |
-| ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323330.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Saga 패턴 기반 주문 프로세스 구현 과정 & kafka 메시지 브로커 관련 트러블슈팅 내용 문서화, </br> MSA 환경에서의 서비스 간 통신 및 데이터 일관성 보장 전략 관련 공부 내용 문서화 |
-| ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | MSA 환경에서의 서비스 간 통신 방법 관련 내용 공부, MSA 환경 세팅 관련 공부 내용 복습 |
 
 <details>
   <summary>분류 기준</summary>
@@ -38,6 +36,7 @@
 - Linux System & C Programming : C언어 기반의 Linux 파일 시스템 내부 중복 파일 정리 프로그램 구현
 - Redis & AOP 기반 예약 동시성 제어 및 부하테스트 수행
 - DDD 기반 프로젝트 수행 경험: DDD 기반 주문/배송 도메인 로직 구현 및 이벤트를 활용한 전체 주문 프로세스 구현
+- MSA 서비스 인프라 구축 및 개선 경험(API 게이트웨이)
 
 ---
 
